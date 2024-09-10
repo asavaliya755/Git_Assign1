@@ -1,2 +1,4 @@
 # Git_Assign1
-This is my first repository
+This is my first Git repository
+<br>
+My name is Ankita Savaliya
